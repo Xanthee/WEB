@@ -1,3 +1,9 @@
+img {
+    border-radius: 50%;
+    border: 5px solid #555;
+    padding: 25px; 
+}
+
 .myDiv {
     border: 5px outset red;
     background-color: lightblue;
