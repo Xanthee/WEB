@@ -1,10 +1,16 @@
-img {
-    border-radius: 50%;
-    border: 5px solid #555;
-    padding: 25px; 
+
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
 }
 
-.myDiv {
-    border: 5px outset red;
-    background-color: lightblue;
-    text-align: center;
+.box1{
+    border: none;
+}
+
+.box2{
+    border: none;
+}
